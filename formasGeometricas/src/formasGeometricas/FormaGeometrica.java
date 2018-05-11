@@ -2,8 +2,8 @@ package formasGeometricas;
 
 public interface FormaGeometrica {
 
-	void CalcularArea(double x);
+	void CalcularArea(int x);
 
-	void CalcularPerimetro(double y);
+	void CalcularPerimetro(int y);
 
 }
